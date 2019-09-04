@@ -1,3 +1,5 @@
 # Helpdesk Application
 
-It used for store problem reports related to IT department or other department.BuiltWith: Java, MySQL
+It used for store problem reports related to IT department or other department.
+
+BuiltWith: Java, MySQL
